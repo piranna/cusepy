@@ -1,0 +1,1 @@
+CUSE Character device in Userspace allows to create character devices in Linux from the Userspace, this library provides a binding for Python. It's based on [fusepy](http://code.google.com/p/fusepy/)
